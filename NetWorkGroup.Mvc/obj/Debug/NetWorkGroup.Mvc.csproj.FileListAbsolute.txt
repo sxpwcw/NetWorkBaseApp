@@ -1,4 +1,0 @@
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Mvc\bin\Debug\NetWorkGroup.Mvc.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Mvc\bin\Debug\NetWorkGroup.Mvc.pdb
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Mvc\obj\Debug\NetWorkGroup.Mvc.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Mvc\obj\Debug\NetWorkGroup.Mvc.pdb

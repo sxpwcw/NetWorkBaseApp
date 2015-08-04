@@ -1,6 +1,0 @@
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Data\obj\Release\NetWorkGroup.Data.csprojResolveAssemblyReference.cache
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Data.XML
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Data.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Data.pdb
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Data\obj\Release\NetWorkGroup.Data.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Data\obj\Release\NetWorkGroup.Data.pdb

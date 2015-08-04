@@ -1,8 +1,0 @@
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Extensions\obj\Release\NetWorkGroup.Extensions.csprojResolveAssemblyReference.cache
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Extensions\obj\Release\NetWorkGroup.Extensions.Properties.Resources.resources
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Extensions\obj\Release\NetWorkGroup.Extensions.csproj.GenerateResource.Cache
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Extensions.XML
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Extensions.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Release\NetWorkGroup.Extensions.pdb
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Extensions\obj\Release\NetWorkGroup.Extensions.dll
-E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Extensions\obj\Release\NetWorkGroup.Extensions.pdb
