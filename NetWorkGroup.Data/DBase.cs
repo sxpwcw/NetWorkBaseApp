@@ -14,7 +14,7 @@ namespace NetWorkGroup.Data
     /// <summary>
     /// 数据核心处理程序集抽象层
     /// </summary>
-    public abstract class DBase : IDisposable
+    public abstract class DBase : IDisposable 
     {
         /// <summary>
         /// 默认构造函数
