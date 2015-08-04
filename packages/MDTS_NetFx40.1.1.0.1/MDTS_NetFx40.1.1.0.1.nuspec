@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MDTS_NetFx40</id>
+    <version>1.1.0.1</version>
+    <title>Mrhuo Developer Tools Version 1.1.0.1(.Net Framework40)</title>
+    <authors>sxpwcw</authors>
+    <owners>sxpwcw</owners>
+    <projectUrl>http://www.mrhuo.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>用于自建项目的MVC项目的底层程序集。更新冲突方法</description>
+    <releaseNotes />
+    <copyright>Mrhuo Developer Tools</copyright>
+    <language>zh-CN</language>
+  </metadata>
+</package>

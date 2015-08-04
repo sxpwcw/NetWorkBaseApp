@@ -1,0 +1,6 @@
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Core.XML
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Core.dll
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Core.pdb
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Core\obj\Debug\NetWorkGroup.Core.csprojResolveAssemblyReference.cache
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Core\obj\Debug\NetWorkGroup.Core.dll
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Core\obj\Debug\NetWorkGroup.Core.pdb

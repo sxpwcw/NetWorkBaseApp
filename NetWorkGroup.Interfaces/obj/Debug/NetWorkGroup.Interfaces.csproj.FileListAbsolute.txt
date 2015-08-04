@@ -1,0 +1,5 @@
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Interfaces.XML
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Interfaces.dll
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\bin\Debug\NetWorkGroup.Interfaces.pdb
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Interfaces\obj\Debug\NetWorkGroup.Interfaces.dll
+E:\PCCODER\VS2012\团队基础信息类项目\BuildProcessTemplates\NetWorkBase\NetWorkGroup.Interfaces\obj\Debug\NetWorkGroup.Interfaces.pdb
